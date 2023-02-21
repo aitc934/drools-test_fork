@@ -1,4 +1,4 @@
-﻿#Description
+﻿# Description
 Ce projet est un test de prise en main du moteur de règles Drools. 
 Le but est d'évaluer votre capacité à prendre en main l'utilisation de Drools. Vous pouvez consulter n'importe quelles ressources pour résoudre l'exercice mais vous devez le réaliser vous même. Cet exercice consiste à réaliser un fichier de config drools pour un petite cas d'utilisation simulant le calcul de rabais lors de l'achat d'un bien en fonction de plusieurs paramètres. Il s'agira ensuite de tester ce fichier graçe à des test unitaires
 
